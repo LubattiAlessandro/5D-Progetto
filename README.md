@@ -8,3 +8,4 @@ Questa repository contiene i seguenti argomenti:
 
 ### Team di sviluppo
 - Lubatti Alessandro
+- Mario Giordano
